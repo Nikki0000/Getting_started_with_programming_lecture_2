@@ -1,0 +1,14 @@
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\Example02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\Example02.AssemblyInfoInputs.cache
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\Example02.AssemblyInfo.cs
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\Example02.csproj.CoreCompileInputs.cache
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\bin\Debug\net7.0\Example02.exe
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\bin\Debug\net7.0\Example02.deps.json
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\bin\Debug\net7.0\Example02.runtimeconfig.json
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\bin\Debug\net7.0\Example02.dll
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\bin\Debug\net7.0\Example02.pdb
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\Example02.dll
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\refint\Example02.dll
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\Example02.pdb
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\Example02.genruntimeconfig.cache
+C:\Users\Savodyarkin_N\Desktop\Lesson_2 Массивы\Example02\obj\Debug\net7.0\ref\Example02.dll
